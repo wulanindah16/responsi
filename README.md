@@ -32,4 +32,4 @@
 <img src="assets/page/destinasi.png">
 <img src="assets/page/destinasi2.png">
 <h3>Halaman Contact</h3>
-<img src="assets/page/contact.png">
+<img src="assets/page/kontak.png">
