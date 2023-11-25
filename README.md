@@ -8,18 +8,18 @@
 
 <h3>Komponen Pembangun Produk</h3>
 <p> 1. Database persebaran wisata Kabupaten Manggarai Barat (PHPMyAdmin)
-    2. Geoserver (Batas Administrasi)
-    3. Bootstrap (Tampilan Website)
-    4. HTML, PHP, CSS 
-    5. Leaflet JS (Tampilan Peta)
-    6. Google Font (Tampilan Tulisan)
-    7. Fontawesome (Icon)</p>
+<p> 2. Geoserver (Batas Administrasi)</p>
+<p> 3. Bootstrap (Tampilan Website)</p>
+<p> 4. HTML, PHP, CSS </p>
+<p> 5. Leaflet JS (Tampilan Peta)</p>
+<p> 6. Google Font (Tampilan Tulisan)</p>
+<p> 7. Fontawesome (Icon)</p>
 
 <hr>
 
 <h3>Sumber Data</h3>
-<p> 1. Data titik tempat wisata Kab Manggarai Barat dari Google Maps (PHPMyAdmin)
-    2. Data Shapefile Kab Manggarai Barat dari InaGeoportal (Batas Administrasi)</p>
+<p> 1. Data titik tempat wisata Kab Manggarai Barat dari Google Maps (PHPMyAdmin)</p>
+<p> 2. Data Shapefile Kab Manggarai Barat dari InaGeoportal (Batas Administrasi)</p>
 
 <hr>
 
@@ -29,7 +29,7 @@
 <img src="assets/page/peta.png">
 <img src="assets/page/wisata.png">
 <h3>Tampilan Destinasi</h3>
-<img src="assets/page/wisata.png">
-<img src="assets/page/wisata2.png">
+<img src="assets/page/destinasi.png">
+<img src="assets/page/destinasi2.png">
 <h3>Halaman Contact</h3>
 <img src="assets/page/contact.png">
